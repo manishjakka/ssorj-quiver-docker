@@ -1,4 +1,4 @@
-FROM fedora:23
+FROM fedora:24
 MAINTAINER Victor Romero <victor.romero@gmail.com>
 
 # add user and group for artemis
